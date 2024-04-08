@@ -20,7 +20,7 @@ Then the following code is what you would use to install all your packages (typi
 pip install -r requirements.txt
 ```
 <br></br>
-This is how you run the code locally (without Docker). uvicorn is used to do this (detecting changes in .py files), you call the `main.py` python file containing the code and the `app` server from fastapi that we are using in our code, `--host 0.0.0.0` is our local host, it is accepting requests on `--port 8080` and it automatically reloads and shows changes everytime we make a change in our localhost with the use of `--reload`:
+This is how you run the code locally (without Docker). uvicorn is used to do this (detecting changes in .py files and more if specified in yaml for docker image), you call the `main.py` python file containing the code and the `app` server from fastapi that we are using in our code, `--host 0.0.0.0` is our local host, it is accepting requests on `--port 8080` and it automatically reloads and shows changes everytime we make a change in our localhost with the use of `--reload`:
 
 
 ```

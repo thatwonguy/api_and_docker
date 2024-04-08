@@ -1,5 +1,5 @@
 import json
-from dataclass import dataclass, field
+from dataclasses import dataclass, field
 
 from fastapi import FastAPI, HTTPException, Response
 

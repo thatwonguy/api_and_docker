@@ -31,7 +31,7 @@ docker run -d -p 8080:80 channel-api
 In order to run the example server with docker compose, use this:
 
 ```
-docker_compose up --build
+docker-compose up --build
 ```
 
 If you use docker compose and you make a minor change in the file, you can now see how everything is updated and the server is restarted automatically.

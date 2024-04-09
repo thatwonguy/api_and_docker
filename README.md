@@ -1,7 +1,7 @@
 # api_and_docker
 demo usage of docker with api
 
-## How To Use Docker To Make Local Development A Breeze
+## How To Use Docker To Make Local Development Easier (alternative to virtual environments)
 
 Docker is a very powerful tool for developing applications that run in the cloud. If you want to get the most out of it, you need to make sure that the way you're running your code locally matches as closely as possible with how it runs in the cloud.
 

@@ -16,7 +16,8 @@ As a first step, install Docker (see: https://www.docker.com) and install the re
 docker --version
 ```
 <br></br>
-Then the following code is what you would use to install all your packages (typically in a virtual env if you weren't using Docker).
+> [!NOTE]
+> Then the following code is what you would use to install all your packages (typically in a virtual env if you weren't using Docker).
 
 ```
 pip install -r requirements.txt

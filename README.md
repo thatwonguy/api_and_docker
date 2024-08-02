@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # api_and_docker
-demo usage of docker with api
+demo usage of docker with api 
 
 ## How To Use Docker To Make Local Development Easier (alternative to virtual environments)
 
